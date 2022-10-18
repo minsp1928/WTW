@@ -1,0 +1,13 @@
+# Member insert
+INSERT INTO `member` (`ID`, `PW`, `NICK`, `AGE`, `GEN`, `STATUS`, `RE_COUNT`) VALUES ('admin', 'admin', '관리자', '25', 'F', '0', '0');
+INSERT INTO `member` (`ID`, `PW`, `NICK`, `AGE`, `GEN`, `STATUS`, `RE_COUNT`) VALUES ('one', '1', '하나', '21', 'M', '1', '0');
+INSERT INTO `member` (`ID`, `PW`, `NICK`, `AGE`, `GEN`, `STATUS`, `RE_COUNT`) VALUES ('two', '2', '둘', '22', 'F', '1', '2');
+INSERT INTO `member` (`ID`, `PW`, `NICK`, `AGE`, `GEN`, `STATUS`, `RE_COUNT`) VALUES ('three', '3', '셋', '23', 'M', '1', '0');
+INSERT INTO `member` (`ID`, `PW`, `NICK`, `AGE`, `GEN`, `STATUS`, `RE_COUNT`) VALUES ('four', '4', '넷', '24', 'F', '2', '5');
+
+# Dog insert
+INSERT INTO `member` (`ID`, `PW`, `NICK`, `AGE`, `GEN`, `STATUS`, `RE_COUNT`) VALUES ('admin', 'admin', '관리자', '25', 'F', '0', '0');
+INSERT INTO `member` (`ID`, `PW`, `NICK`, `AGE`, `GEN`, `STATUS`, `RE_COUNT`) VALUES ('one', '1', '하나', '21', 'M', '1', '0');
+INSERT INTO `member` (`ID`, `PW`, `NICK`, `AGE`, `GEN`, `STATUS`, `RE_COUNT`) VALUES ('two', '2', '둘', '22', 'F', '1', '2');
+INSERT INTO `member` (`ID`, `PW`, `NICK`, `AGE`, `GEN`, `STATUS`, `RE_COUNT`) VALUES ('three', '3', '셋', '23', 'M', '1', '0');
+INSERT INTO `member` (`ID`, `PW`, `NICK`, `AGE`, `GEN`, `STATUS`, `RE_COUNT`) VALUES ('four', '4', '넷', '24', 'F', '2', '5');

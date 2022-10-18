@@ -1,0 +1,5 @@
+2022-10-13 wtw commit
+
+* today's work *
+- test data insert 문 작성
+- 기능명세 작성 

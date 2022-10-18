@@ -1,0 +1,12 @@
+board
+
+insert into board values (BOARD_NUM, 'one' , '하나', '하나님의 문의 입니다.', '문의 일', 0, now());
+insert into board values (BOARD_NUM, 'two', '둘' , '둘님의 질문 입니다.', '질문 이', 1, now());
+insert into board values (BOARD_NUM, 'three', '셋' , '셋님의 소통 입니다.', '소통 셋', 2, now());
+
+-------------------------------------------------------------------------
+answer
+
+insert into answer values (A_NUM, 1, 'admin', '문의 답변(어드민)');
+insert into answer values (A_NUM, 2, 'four', '질문 답변(넷)');
+insert into answer values (A_NUM, 3, 'one', '문의 답변(하나)');
